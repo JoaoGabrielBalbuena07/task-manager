@@ -9,7 +9,7 @@ Como executar:
 \-Clone o repositório
 \- Execute:
 
-\python main.py
+python main.py
 
 Funcionalidades do sistema:
 
