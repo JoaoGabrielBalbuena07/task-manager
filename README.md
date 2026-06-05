@@ -4,7 +4,7 @@
 
 \## Projeto CRUD de Gerenciador de Tarefas ##
 
-Como executar:
+## Como executar:
 
 \-Clone o repositório
 
@@ -12,7 +12,7 @@ Como executar:
 
 python main.py
 
-Funcionalidades do sistema:
+## Funcionalidades do sistema:
 
 
 
@@ -28,7 +28,7 @@ Funcionalidades do sistema:
 
 
 
-Linguagens utilizadas:
+## Linguagens utilizadas:
 
 
 
