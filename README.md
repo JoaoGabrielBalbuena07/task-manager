@@ -7,6 +7,7 @@
 Como executar:
 
 \-Clone o repositório
+
 \- Execute:
 
 python main.py
